@@ -8,7 +8,7 @@ public class SpringCloudZuulApp {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringCloudZuulApp.class, args);
-        //testgit
+        //testgit2.0
     }
 }
 
